@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Shivam Dugale, an AI & Data Science graduate passionate about Data Analytics and AI.<br>Skilled in SQL, Excel, Power BI, and Python, I enjoy transforming data into actionable insights and building impactful solutions.
 
 
