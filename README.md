@@ -22,9 +22,4 @@ Hi, I'm Shivam Dugale, an AI & Data Science graduate passionate about Data Analy
 ![](https://github-contributor-stats.vercel.app/api?username=Shivamdugale&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shivamdugale&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
